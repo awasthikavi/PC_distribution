@@ -1,2 +1,2 @@
 # PC_distribution
-Callery Pear classification raw codes
+Raw codes for visualizing the results of PC distribution. 
